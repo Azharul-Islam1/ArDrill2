@@ -35,10 +35,17 @@ Target version = 35
    - ARCore-supported device
    - SDK version 35
    - Internet permission (if needed)
-4. Build & run the app on a physical device
+4. Then Select a Drill and click "Start Ar Drill" button
+5. After that set positon of the object and then place it
+6. Then the object will be placed on the selected position
 
 #Screenshots
+![WhatsApp Image 2025-08-23 at 01 51 54_f4788497](https://github.com/user-attachments/assets/8dad03ea-cdbd-40bf-9e9d-5559dccf2a89)
+![WhatsApp Image 2025-08-23 at 01 51 53_724e8433](https://github.com/user-attachments/assets/c775d94a-8cb2-4c7d-a754-bffe31df5572)
+
 ![WhatsApp Image 2025-08-23 at 01 51 52_3fc5483e](https://github.com/user-attachments/assets/566ac829-62cd-4610-8737-53f4f372e27a)
+![WhatsApp Image 2025-08-23 at 01 51 53_e0fe4f0f](https://github.com/user-attachments/assets/b7d86eaa-734d-4be5-8ae9-6e1d81772dc5)
+
 
 
 
